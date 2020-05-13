@@ -280,8 +280,7 @@ Previous tag: ''
 * Update dependencies (#4) @TimonVS
 * Bug fixes (#3) @TimonVS
 * Add big feature (#2) @TimonVS
-* 👽 Add alien technology (#1) @TimonVS
-`,
+* 👽 Add alien technology (#1) @TimonVS `,
                 draft: true,
                 tag_name: ''
               })
@@ -548,8 +547,7 @@ Previous tag: ''
 * Update dependencies (#4) @TimonVS 
 * Bug fixes (#3) @TimonVS 
 * Add big feature (#2) @TimonVS 
-* 👽 Add alien technology (#1) @TimonVS 
-`
+* 👽 Add alien technology (#1) @TimonVS `
               })
               return true
             }
@@ -600,8 +598,7 @@ Previous tag: ''
 
 ## 🐛 Bug Fixes
 
-* Bug fixes (#3) @TimonVS 
-`,
+* Bug fixes (#3) @TimonVS `,
                 draft: true,
                 tag_name: ''
               })
@@ -652,8 +649,7 @@ Previous tag: ''
 
 ## 🐛 Bug Fixes
 
-* Bug fixes (#3) @TimonVS 
-`,
+* Bug fixes (#3) @TimonVS `,
                 draft: true,
                 tag_name: ''
               })
@@ -821,8 +817,7 @@ Previous tag: ''
 
 ## 🐛 Bug Fixes
 
-* Bug fixes (#3) @TimonVS 
-`,
+* Bug fixes (#3) @TimonVS `,
                 draft: true,
                 tag_name: ''
               })
@@ -993,8 +988,7 @@ Previous tag: ''
 * Update dependencies (#4) @TimonVS 
 * Bug fixes (#3) @TimonVS 
 * Add big feature (#2) @TimonVS 
-* 👽 Add alien technology (#1) @TimonVS 
-`,
+* 👽 Add alien technology (#1) @TimonVS `,
                   draft: true,
                   tag_name: ''
                 })
@@ -1044,8 +1038,7 @@ Previous tag: ''
 * Update dependencies (#9) @TimonVS 
 * Bug fixes (#8) @TimonVS 
 * Add big feature (#7) @TimonVS 
-* 👽 Add alien technology (#6) @TimonVS 
-`,
+* 👽 Add alien technology (#6) @TimonVS `,
                   draft: true,
                   tag_name: ''
                 })
@@ -1095,8 +1088,7 @@ Previous tag: ''
 * Update dependencies (#14) @TimonVS 
 * Bug fixes (#13) @TimonVS 
 * Add big feature (#12) @TimonVS 
-* 👽 Add alien technology (#11) @TimonVS 
-`,
+* 👽 Add alien technology (#11) @TimonVS `,
                   draft: true,
                   tag_name: ''
                 })
@@ -1159,8 +1151,7 @@ Previous tag: ''
 * 🐄 More cowbell (#4) @toolmantim
 * 🐒 Add monkeys technology (#3) @toolmantim
 * Adds a new Widgets API (#2) @toolmantim
-* Create new-feature.md (#1) @toolmantim
-`,
+* Create new-feature.md (#1) @toolmantim `,
                 draft: true,
                 tag_name: ''
               })
@@ -1210,8 +1201,7 @@ Previous tag: ''
 * Update dependencies (#4) @TimonVS 
 * Bug fixes (#3) @TimonVS 
 * Add big feature (#2) @TimonVS 
-* 👽 Add alien technology (#1) @TimonVS 
-`,
+* 👽 Add alien technology (#1) @TimonVS `,
                 draft: true,
                 tag_name: ''
               })
@@ -1274,8 +1264,7 @@ Previous tag: ''
 * Added great distance (#16) @toolmantim
 * Add ⛰ technology (#7) @toolmantim
 * Add all the tests (#13) @toolmantim
-* 1️⃣ Switch to a monorepo (#9) @toolmantim
-`,
+* 1️⃣ Switch to a monorepo (#9) @toolmantim `,
               draft: true,
               tag_name: ''
             })
@@ -1337,8 +1326,7 @@ Previous tag: ''
 * Add all the tests (#13) @toolmantim
 * ❤️ Add MOAR THINGS (#14) @toolmantim
 * Oh hai (#15) @toolmantim
-* Added great distance (#16) @toolmantim
-`,
+* Added great distance (#16) @toolmantim `,
               draft: true,
               tag_name: ''
             })
