@@ -24,6 +24,7 @@
                     {
                       "title": "Add documentation",
                       "number": 5,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -54,6 +55,7 @@
                     {
                       "title": "Update dependencies",
                       "number": 4,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -80,6 +82,7 @@
                     {
                       "title": "Bug fixes",
                       "number": 3,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -110,6 +113,7 @@
                     {
                       "title": "Add big feature",
                       "number": 2,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -140,6 +144,7 @@
                     {
                       "title": "👽 Add alien technology",
                       "number": 1,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -170,6 +175,7 @@
                     {
                       "title": "Add documentation",
                       "number": 5,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -200,6 +206,7 @@
                     {
                       "title": "Add documentation",
                       "number": 5,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -230,6 +237,7 @@
                     {
                       "title": "Update dependencies",
                       "number": 4,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -256,6 +264,7 @@
                     {
                       "title": "Update dependencies",
                       "number": 4,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -282,6 +291,7 @@
                     {
                       "title": "Bug fixes",
                       "number": 3,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -312,6 +322,7 @@
                     {
                       "title": "Bug fixes",
                       "number": 3,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -342,6 +353,7 @@
                     {
                       "title": "Add big feature",
                       "number": 2,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -372,6 +384,7 @@
                     {
                       "title": "Add big feature",
                       "number": 2,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
@@ -402,6 +415,7 @@
                     {
                       "title": "👽 Add alien technology",
                       "number": 1,
+                      "body": "dependencies",
                       "author": {
                         "login": "TimonVS"
                       },
